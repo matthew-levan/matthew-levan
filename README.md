@@ -19,7 +19,7 @@ C runtime for Urbit, since 2022.
 - Process split between the event processor and I/O driver ([vere#811](https://github.com/urbit/vere/pull/811))
 
 **Rust**
-- Wrote most of the jets (native accelerations of Hoon standard-library
+- Wrote most of the crypto jets (native accelerations of Hoon standard-library
   functions) for Ares, the Rust Nock interpreter now maintained as
   [Sword](https://github.com/zorp-corp/sword). Original PR history was
   removed when the project changed hands.
