@@ -2,7 +2,7 @@
 
 Systems engineer working on language runtimes, persistence, and correctness,
 in C and Rust. Core contributor to [Vere](https://github.com/urbit/vere), the
-C runtime for Urbit, since 2022. Minnesota, US · open to remote roles and contracts.
+C runtime for Urbit, since 2022.
 
 ## What I work on
 
