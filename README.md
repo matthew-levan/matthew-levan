@@ -1,5 +1,10 @@
 # Matthew LeVan
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/replay-dark.svg">
+  <img alt="A live Vere runtime consumes an event log while a replay from snapshot reproduces identical state hashes" src="assets/replay-light.svg">
+</picture>
+
 Systems engineer working on language runtimes, persistence, functional and distributed systems, 
 and correctness, mostly in C and sometimes Rust. Core contributor to [Vere](https://github.com/urbit/vere), 
 the C runtime for Urbit, since 2022. Previously worked on build systems, application, and 
