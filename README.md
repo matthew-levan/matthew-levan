@@ -2,15 +2,15 @@
 
 Systems engineer working on language runtimes, persistence, functional and distributed systems, 
 and correctness, mostly in C and sometimes Rust. Core contributor to [Vere](https://github.com/urbit/vere), 
-the C runtime for Urbit, since 2022. Previously worked on build systems, application, and 
+the C runtime for Urbit, since 2022. Previously worked on build systems, applications, and 
 data engineering at Tlon, Wexpert Systems, Clearview AI, and Honeywell Aerospace.
 
-## What I work on
+## What I've worked on
 
 **Persistence & storage**
 - Epoch system for event-log segmentation and migration ([vere#459](https://github.com/urbit/vere/pull/459))
 - `book`: replacing LMDB with a purpose-built event log ([vere#936](https://github.com/urbit/vere/pull/936), [design](https://github.com/urbit/UIPs/pull/82))
-- Blob storage for large atoms ([vere#985](https://github.com/urbit/vere/pull/985), [vere#1121](https://github.com/urbit/vere/pull/1121))
+- File-backed storage for large atoms ([vere#985](https://github.com/urbit/vere/pull/985), [vere#1121](https://github.com/urbit/vere/pull/1121))
 - [Seguro](https://github.com/wexpertsystems/seguro): a replicated event-log storage experiment on FoundationDB
 
 **Memory & runtime internals**
